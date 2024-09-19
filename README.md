@@ -1,35 +1,29 @@
 # KRINVM Multi-Tools
 
-¡Bienvenido al **KRINVM Multi-Tools**! Este script está diseñado para mejorar tu experiencia en Ponytown con algunas funciones útiles. 🐴✨
+![KRINVM Multi-Tools Icon](https://i.ibb.co/Bnm5M9G/sshot-2024-08-07-1.png)
 
-## Funciones Principales
+## Descripción
 
-### Anti-ausente 💤
-¿Cansado de ser expulsado por inactividad? Con la función **Anti-ausente**, mantén a tu avatar despierto y activo. Perfecto para esas veces en que quieres tomar un descanso sin desconectarte.
+¡Bienvenido a **KRINVM Multi-Tools**, el script de Tampermonkey que transforma tu experiencia en [Pony Town](https://pony.town/)! Este poderoso conjunto de herramientas incluye:
 
-### Spammer 🔊
-Promociona tus clanes o eventos sin esfuerzo con nuestro **Spammer**. Simplemente define el texto que deseas espamear y deja que el script se encargue del resto. ¡Difunde tu mensaje de manera rápida y sencilla!
+- **Chat-Filter:** Filtra los mensajes del chat para que no te pierdas lo importante.
+- **Auto-Reconexión:** Mantente siempre conectado, incluso si la conexión se pierde.
+- **Anti-Aus:** ¡Dile adiós a las desconexiones por inactividad! Mantén tu personaje activo con un solo clic.
+- **Auto-Anunciador:** Si estás en un clan, envía mensajes automáticamente mientras te ocupas en otras cosas.
 
-### Filtro de chat 🗨️
-¿Quieres seguir las conversaciones de personas específicas? Con el **Filtro de chat**, escribe el nombre de usuario de las personas cuyo chat te interese, y filtra solo sus mensajes. Ideal para mantener conversaciones importantes sin distracciones.
+## Características Destacadas
 
-## Cómo Usar
+- **Interfaz Amigable:** Panel de control fácil de usar que se integra directamente en la página.
+- **Personalización de Mensajes:** Define el texto que deseas repetir en el chat.
+- **Filtrado de Nombres:** Mantén el chat limpio al filtrar mensajes de usuarios específicos.
+- **Reconexión Automática:** Recarga la página automáticamente si te desconectas.
 
-1. Descarga el archivo `Código.js`
-2. Crea un nuevo marcador o favorito en tu navegador y nombralo como KRINVM Multi-Tools.
-3. Abre el archivo `Código.js` utilizando cualquier editor de texto. Luego, copia el contenido de ese archivo y pégalo en el campo de URL del marcador que creaste en tu navegador. Finalmente, guarda el marcador.
-4. Entra a la página de inicio de pony.town y da click en el marcador que creaste para que inicie el script.
+## ¿Cómo Empezar?
 
-## Dudas
+1. **Instala Tampermonkey** en tu navegador.
+2. **Inslación** Da click en el botón verde  'Instalar este script'
+3. **Visita [Pony Town](https://pony.town/)** y disfruta de una experiencia mejorada.
 
-Si tienes dudas o no entiendes alguno de los pasos, puedes preguntar en mi canal de YouTube: www.youtube.com/@KRINVM2
+## Agradecimientos
 
-## Contribuciones
-
-Si deseas contribuir con mejoras o nuevas funciones, por favor, comunicate conmigo por medio de mi canal de YouTube. ¡Todas las ideas son bienvenidas!
-
-## Soporte
-
-Si encuentras algún problema o tienes preguntas, no dudes en abrir un "issue" en el repositorio.
-
-¡Gracias por usar KRINVM Multi-Tools! Esperamos que lo disfrutes tanto como nosotros al desarrollarlo.
+Hecho por [KRINVM](https://www.youtube.com/@KRINVM2). Si te gusta este script y deseas más herramientas útiles, visita mi [GitHub](https://github.com/krinvm).
