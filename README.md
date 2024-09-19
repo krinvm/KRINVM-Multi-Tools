@@ -1,7 +1,5 @@
 # KRINVM Multi-Tools
 
-![KRINVM Multi-Tools Icon](https://i.ibb.co/Bnm5M9G/sshot-2024-08-07-1.png)
-
 ## Descripción
 
 ¡Bienvenido a **KRINVM Multi-Tools**, el script de Tampermonkey que transforma tu experiencia en [Pony Town](https://pony.town/)! Este poderoso conjunto de herramientas incluye:
@@ -18,11 +16,20 @@
 - **Filtrado de Nombres:** Mantén el chat limpio al filtrar mensajes de usuarios específicos.
 - **Reconexión Automática:** Recarga la página automáticamente si te desconectas.
 
-## ¿Cómo Empezar?
+## ¿Cómo Instalar? (Método dificil)
 
-1. **Instala Tampermonkey** en tu navegador.
-2. **Inslación** Da click en el botón verde  'Instalar este script'
-3. **Visita [Pony Town](https://pony.town/)** y disfruta de una experiencia mejorada.
+1. **Instala la extensión 'Tampermonkey' en tu navegador.**
+2. **Instalación:**
+- Abre el archivo: Código.js
+- Copia el código que hay dentro del archivo
+- Abre el Dashboard de Tampermonkey y haz un nuevo script, luego pega el código y da en guardar.
+
+## ¿Cómo Instalar? (Método fácil)
+1. **Instala la extensión 'Tampermonkey' en tu navegador.**
+2. **Ve a GreasyFork [KRINVM MULTI-TOOLS](https://greasyfork.org/es/scripts/509275-krinvm-multi-tools)**
+3. **Da click en el botón verde 'Instalar este script'.**
+ 
+4. **Visita [Pony Town](https://pony.town/)** y disfruta de una experiencia mejorada.
 
 ## Agradecimientos
 
